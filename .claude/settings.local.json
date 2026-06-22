@@ -9,7 +9,9 @@
       "Bash(git -C /Users/zeynepsenataspinar/my_site add rosette.html)",
       "Bash(git -C /Users/zeynepsenataspinar/my_site commit -m ' *)",
       "Bash(git -C /Users/zeynepsenataspinar/my_site add bloom.html velvetgrid.html)",
-      "Bash(git -C /Users/zeynepsenataspinar/my_site add .claude/)"
+      "Bash(git -C /Users/zeynepsenataspinar/my_site add .claude/)",
+      "Bash(git -C /Users/zeynepsenataspinar/my_site diff)",
+      "Bash(git -C /Users/zeynepsenataspinar/my_site add .claude/settings.local.json)"
     ]
   }
 }
